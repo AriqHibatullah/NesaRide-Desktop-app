@@ -1,0 +1,8 @@
+Ariq Hibatullahh,23031554064,1,5,13000
+Dea Kurniawati,23031554001,2,1,0
+Yashifa Sastia,23031554036,3,0,0
+Khais Dhovi,23031554167,4,0,0
+Friza Chintia,23031554188,5,0,0
+a,2,a,0,0
+Ariq Simanjuntak,2303155499,12,0,0
+Ariq Hibatullah,230313490,testing,0,0
