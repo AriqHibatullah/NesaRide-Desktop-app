@@ -11,84 +11,84 @@ window.geometry("1280x720")
 window.configure(bg = "#F8F9FA")
 
 #IMAGE FOR LOGIN PAGE
-button2 = ImageTk.PhotoImage(Image.open("tombolbuat.png").resize((320, 44)))
-login_image3 = ImageTk.PhotoImage(Image.open("frameentry2.png").resize((310, 55)))
-button3 = ImageTk.PhotoImage(Image.open("tombolkirim.png").resize((119, 36)))
-snkk = ImageTk.PhotoImage(Image.open("snk.png"))
-login_image = ImageTk.PhotoImage(Image.open("Gedung_Rektorat_Unesa.png").resize((624, 690)))
-logo_gojek = ImageTk.PhotoImage(Image.open("logo_nesaride.png").resize((373, 50)))
-login_image2 = ImageTk.PhotoImage(Image.open("frameentry.png").resize((450, 55)))
-button = ImageTk.PhotoImage(Image.open("butonlogin.png").resize((344, 44)))
-background = ImageTk.PhotoImage(Image.open("background.png"))
+button2 = ImageTk.PhotoImage(Image.open("assets/tombolbuat.png").resize((320, 44)))
+login_image3 = ImageTk.PhotoImage(Image.open("assets/frameentry2.png").resize((310, 55)))
+button3 = ImageTk.PhotoImage(Image.open("assets/tombolkirim.png").resize((119, 36)))
+snkk = ImageTk.PhotoImage(Image.open("assets/snk.png"))
+login_image = ImageTk.PhotoImage(Image.open("assets/Gedung_Rektorat_Unesa.png").resize((624, 690)))
+logo_gojek = ImageTk.PhotoImage(Image.open("assets/logo_nesaride.png").resize((373, 50)))
+login_image2 = ImageTk.PhotoImage(Image.open("assets/frameentry.png").resize((450, 55)))
+button = ImageTk.PhotoImage(Image.open("assets/butonlogin.png").resize((344, 44)))
+background = ImageTk.PhotoImage(Image.open("assets/background.png"))
 
 #IMAGE FOR NESARIDE
-header1 = ImageTk.PhotoImage(Image.open("header.png"))
-logo_nesaride = ImageTk.PhotoImage(Image.open("nesaride.png"))
-indikator = ImageTk.PhotoImage(Image.open("indikator_select.png"))
-indikator2 = ImageTk.PhotoImage(Image.open("indikator_select.png").resize((65, 4)))
-indikator3 = ImageTk.PhotoImage(Image.open("indikator_select.png").resize((100, 4)))
-profil = ImageTk.PhotoImage(Image.open("profil.png"))
-text1 = ImageTk.PhotoImage(Image.open("text1.png"))
-text2 = ImageTk.PhotoImage(Image.open("text2.png"))
-pesan_sekarang = ImageTk.PhotoImage(Image.open("pesan_sekarang2.png"))
-banner1 = ImageTk.PhotoImage(Image.open("banner2Rn.png"))
-banner2 = ImageTk.PhotoImage(Image.open("banner1Rn.png"))
-setlokasi = ImageTk.PhotoImage(Image.open("textsetlokasi.png"))
-atur_lokasi = ImageTk.PhotoImage(Image.open("atur_lokasi.png"))
-pin = ImageTk.PhotoImage(Image.open("icon_pin.png"))
-titik_jemput = ImageTk.PhotoImage(Image.open("kotak.png"))
-metode_pembayaran = ImageTk.PhotoImage(Image.open("kotak2.png"))
-text_biaya = ImageTk.PhotoImage(Image.open("textbiaya.png"))
-pesan = ImageTk.PhotoImage(Image.open("pesan2.png"))
-button_metode = ImageTk.PhotoImage(Image.open("button_22.png"))
-denah_kampus = ImageTk.PhotoImage(Image.open("textdenah.png"))
-denah = ImageTk.PhotoImage(Image.open("denah.png"))
-notice = ImageTk.PhotoImage(Image.open("textdapatdriver.png"))
-detailperjalanan = ImageTk.PhotoImage(Image.open("textdetailjalan.png"))
-pin2 = ImageTk.PhotoImage(Image.open("icon_pin.png"))
-titik_jemput2 = ImageTk.PhotoImage(Image.open("kotak.png"))
-detaildriver = ImageTk.PhotoImage(Image.open("textdetaildriver.png"))
-driver = ImageTk.PhotoImage(Image.open("kotak3.png"))
-avatardriver = ImageTk.PhotoImage(Image.open("avatar.png").resize((88, 88)))
-detailpembayaran = ImageTk.PhotoImage(Image.open("textdetailpembayaran.png"))
-frame1 = ImageTk.PhotoImage(Image.open("frame_rating.png"))
-textr = ImageTk.PhotoImage(Image.open("textrating.png"))
-d1 = ImageTk.PhotoImage(Image.open("driver_rating.png"))
-kirim = ImageTk.PhotoImage(Image.open("tombol_kirim.png"))
-bintang0 = ImageTk.PhotoImage(Image.open("bintang0.png"))
-bintang1 = ImageTk.PhotoImage(Image.open("bintang1.png"))
-selesai = ImageTk.PhotoImage(Image.open("selesai2.png"))
-load1 = ImageTk.PhotoImage(Image.open("loading6.png"))
-load2 = ImageTk.PhotoImage(Image.open("loading7.png"))
-load3 = ImageTk.PhotoImage(Image.open("loading8.png"))
-load4 = ImageTk.PhotoImage(Image.open("loading9.png"))
-load5 = ImageTk.PhotoImage(Image.open("cekles2.png").resize((100,100)))
-denah2 = ImageTk.PhotoImage(Image.open("denah.png").resize((460, 383)))
-frame = ImageTk.PhotoImage(Image.open("frame_riwayat.png"))
-head_table = ImageTk.PhotoImage(Image.open("head_riwayat.png"))
-batal = ImageTk.PhotoImage(Image.open("batalkan.png"))
-kembali = ImageTk.PhotoImage(Image.open("kembali.png"))
-bintang2 = ImageTk.PhotoImage(Image.open("bintang2.png"))
-bintang3 = ImageTk.PhotoImage(Image.open("bintang3.png"))
-garis = ImageTk.PhotoImage(Image.open("garis.png"))
-perjalanan = ImageTk.PhotoImage(Image.open("perjalanan.png"))
-framer2 = ImageTk.PhotoImage(Image.open("frame_riwayat2.png"))
-lihat1 = ImageTk.PhotoImage(Image.open("lihat1.png"))
-lihat2 = ImageTk.PhotoImage(Image.open("lihat2.png"))
-box = ImageTk.PhotoImage(Image.open("framemap.png"))
-container = ImageTk.PhotoImage(Image.open("mapkampus.png"))
-fmipa = ImageTk.PhotoImage(Image.open("button_fmipa.png"))
-ft = ImageTk.PhotoImage(Image.open("button_ft.png"))
-feb = ImageTk.PhotoImage(Image.open("button_feb.png"))
-vokasi = ImageTk.PhotoImage(Image.open("button_vokasi.png"))
-fish = ImageTk.PhotoImage(Image.open("button_fish.png"))
-fip = ImageTk.PhotoImage(Image.open("button_fip.png"))
-fikk = ImageTk.PhotoImage(Image.open("button_fikk.png"))
-fbs = ImageTk.PhotoImage(Image.open("button_fbs.png"))
-fk = ImageTk.PhotoImage(Image.open("button_fk.png"))
-frame_metode = ImageTk.PhotoImage(Image.open("frame_metode.png"))
-button_metode1 = ImageTk.PhotoImage(Image.open("button_metode1.png"))
-button_metode2 = ImageTk.PhotoImage(Image.open("button_metode2.png"))
+header1 = ImageTk.PhotoImage(Image.open("assets/header.png"))
+logo_nesaride = ImageTk.PhotoImage(Image.open("assets/nesaride.png"))
+indikator = ImageTk.PhotoImage(Image.open("assets/indikator_select.png"))
+indikator2 = ImageTk.PhotoImage(Image.open("assets/indikator_select.png").resize((65, 4)))
+indikator3 = ImageTk.PhotoImage(Image.open("assets/indikator_select.png").resize((100, 4)))
+profil = ImageTk.PhotoImage(Image.open("assets/profil.png"))
+text1 = ImageTk.PhotoImage(Image.open("assets/text1.png"))
+text2 = ImageTk.PhotoImage(Image.open("assets/text2.png"))
+pesan_sekarang = ImageTk.PhotoImage(Image.open("assets/pesan_sekarang2.png"))
+banner1 = ImageTk.PhotoImage(Image.open("assets/banner2Rn.png"))
+banner2 = ImageTk.PhotoImage(Image.open("assets/banner1Rn.png"))
+setlokasi = ImageTk.PhotoImage(Image.open("assets/textsetlokasi.png"))
+atur_lokasi = ImageTk.PhotoImage(Image.open("assets/atur_lokasi.png"))
+pin = ImageTk.PhotoImage(Image.open("assets/icon_pin.png"))
+titik_jemput = ImageTk.PhotoImage(Image.open("assets/kotak.png"))
+metode_pembayaran = ImageTk.PhotoImage(Image.open("assets/kotak2.png"))
+text_biaya = ImageTk.PhotoImage(Image.open("assets/textbiaya.png"))
+pesan = ImageTk.PhotoImage(Image.open("assets/pesan2.png"))
+button_metode = ImageTk.PhotoImage(Image.open("assets/button_22.png"))
+denah_kampus = ImageTk.PhotoImage(Image.open("assets/textdenah.png"))
+denah = ImageTk.PhotoImage(Image.open("assets/denah.png"))
+notice = ImageTk.PhotoImage(Image.open("assets/textdapatdriver.png"))
+detailperjalanan = ImageTk.PhotoImage(Image.open("assets/textdetailjalan.png"))
+pin2 = ImageTk.PhotoImage(Image.open("assets/icon_pin.png"))
+titik_jemput2 = ImageTk.PhotoImage(Image.open("assets/kotak.png"))
+detaildriver = ImageTk.PhotoImage(Image.open("assets/textdetaildriver.png"))
+driver = ImageTk.PhotoImage(Image.open("assets/kotak3.png"))
+avatardriver = ImageTk.PhotoImage(Image.open("assets/avatar.png").resize((88, 88)))
+detailpembayaran = ImageTk.PhotoImage(Image.open("assets/textdetailpembayaran.png"))
+frame1 = ImageTk.PhotoImage(Image.open("assets/frame_rating.png"))
+textr = ImageTk.PhotoImage(Image.open("assets/textrating.png"))
+d1 = ImageTk.PhotoImage(Image.open("assets/driver_rating.png"))
+kirim = ImageTk.PhotoImage(Image.open("assets/tombol_kirim.png"))
+bintang0 = ImageTk.PhotoImage(Image.open("assets/bintang0.png"))
+bintang1 = ImageTk.PhotoImage(Image.open("assets/bintang1.png"))
+selesai = ImageTk.PhotoImage(Image.open("assets/selesai2.png"))
+load1 = ImageTk.PhotoImage(Image.open("assets/loading6.png"))
+load2 = ImageTk.PhotoImage(Image.open("assets/loading7.png"))
+load3 = ImageTk.PhotoImage(Image.open("assets/loading8.png"))
+load4 = ImageTk.PhotoImage(Image.open("assets/loading9.png"))
+load5 = ImageTk.PhotoImage(Image.open("assets/cekles2.png").resize((100,100)))
+denah2 = ImageTk.PhotoImage(Image.open("assets/denah.png").resize((460, 383)))
+frame = ImageTk.PhotoImage(Image.open("assets/frame_riwayat.png"))
+head_table = ImageTk.PhotoImage(Image.open("assets/head_riwayat.png"))
+batal = ImageTk.PhotoImage(Image.open("assets/batalkan.png"))
+kembali = ImageTk.PhotoImage(Image.open("assets/kembali.png"))
+bintang2 = ImageTk.PhotoImage(Image.open("assets/bintang2.png"))
+bintang3 = ImageTk.PhotoImage(Image.open("assets/bintang3.png"))
+garis = ImageTk.PhotoImage(Image.open("assets/garis.png"))
+perjalanan = ImageTk.PhotoImage(Image.open("assets/perjalanan.png"))
+framer2 = ImageTk.PhotoImage(Image.open("assets/frame_riwayat2.png"))
+lihat1 = ImageTk.PhotoImage(Image.open("assets/lihat1.png"))
+lihat2 = ImageTk.PhotoImage(Image.open("assets/lihat2.png"))
+box = ImageTk.PhotoImage(Image.open("assets/framemap.png"))
+container = ImageTk.PhotoImage(Image.open("assets/mapkampus.png"))
+fmipa = ImageTk.PhotoImage(Image.open("assets/button_fmipa.png"))
+ft = ImageTk.PhotoImage(Image.open("assets/button_ft.png"))
+feb = ImageTk.PhotoImage(Image.open("assets/button_feb.png"))
+vokasi = ImageTk.PhotoImage(Image.open("assets/button_vokasi.png"))
+fish = ImageTk.PhotoImage(Image.open("assets/button_fish.png"))
+fip = ImageTk.PhotoImage(Image.open("assets/button_fip.png"))
+fikk = ImageTk.PhotoImage(Image.open("assets/button_fikk.png"))
+fbs = ImageTk.PhotoImage(Image.open("assets/button_fbs.png"))
+fk = ImageTk.PhotoImage(Image.open("assets/button_fk.png"))
+frame_metode = ImageTk.PhotoImage(Image.open("assets/frame_metode.png"))
+button_metode1 = ImageTk.PhotoImage(Image.open("assets/button_metode1.png"))
+button_metode2 = ImageTk.PhotoImage(Image.open("assets/button_metode2.png"))
 
 class loginpage :
     def __init__(self) :
@@ -179,6 +179,7 @@ class loginpage :
             nim = data[1]
             password1 = data[2]
             pesanan = data[3]
+            saldo = data[4]
             if username2 == username1 :
                 lanjut = True
                 break
@@ -190,7 +191,7 @@ class loginpage :
         if lanjut == True :
             if password2 == password1 :
                 file = open("username.txt", 'w')
-                print(f'{username2},{nim},{pesanan}', file = file)
+                print(f'{username2},{nim},{pesanan},{saldo}', file = file)
                 file.close()
                 self.login.destroy()
                 nesaride()
@@ -283,7 +284,7 @@ class loginpage :
                     self.confirm.config(text = "*Anda belum mengisi NIM", fg = "red")
                     break
                 elif n == panjang :
-                    akun = f'{usern},{nim},{pw}, 0'
+                    akun = f'{usern},{nim},{pw}, 0,0'
                     file_akun = open("akun.txt", "a")
                     print(akun, file = file_akun)
                     file_akun.close()
@@ -359,10 +360,11 @@ class nesaride :
             self.username = data[0]
             self.nim = data[1]
             pesanan = data[2]
+            saldo = data[3]
         file_username.close()
 
         self.pesanan = int(pesanan)
-        self.saldo = 0
+        self.saldo = int(saldo)
         self.canvas = Canvas(window,bg = "green",height = 720,width = 1280,bd = 0,highlightthickness = 0,relief = "ridge")
         self.canvas.place(x = 0, y = 0)
 
@@ -930,6 +932,27 @@ class nesaride :
         self.status = "Sudah sampai tujuan"
         if self.metode == "Saldo NesaRide" :
             self.saldo -= self.tarif
+            file_username = open("akun.txt", "r")
+            line = file_username.readlines()
+            n = 0
+            for kata in line :
+                lines = kata.strip().split(',')
+                nim = lines[1]
+                if self.nim == nim :
+                    idx = n
+                    with open("akun.txt", 'r') as f:
+                        file = f.readlines()
+
+                    line = file[idx].split(',')
+                    line[4] = f'{self.saldo}\n'
+                    file[idx] = ','.join(line)
+
+                    with open("akun.txt", 'w') as f:
+                        for line in file:
+                            f.write(line)
+                else :
+                    n+=1
+            file_username.close()
 
         global strukk
         self.strukk = Toplevel(window)
@@ -962,7 +985,7 @@ class nesaride :
                     file = f.readlines()
 
                 line = file[idx].split(',')
-                line[3] = f'{self.pesanan}\n'
+                line[3] = f'{self.pesanan}'
                 file[idx] = ','.join(line)
 
                 with open("akun.txt", 'w') as f:
@@ -1130,6 +1153,28 @@ class nesaride :
         print(isiriwayat, file = file_pesanan)
         file_pesanan.close()
 
+        file_username = open("akun.txt", "r")
+        line = file_username.readlines()
+        n = 0
+        for kata in line :
+            lines = kata.strip().split(',')
+            nim = lines[1]
+            if self.nim == nim :
+                idx = n
+                with open("akun.txt", 'r') as f:
+                    file = f.readlines()
+
+                line = file[idx].split(',')
+                line[3] = f'{self.pesanan}'
+                file[idx] = ','.join(line)
+
+                with open("akun.txt", 'w') as f:
+                    for line in file:
+                        f.write(line)
+            else :
+                n+=1
+        file_username.close()
+
         self.switch(self.tombol_home, self.a, self.homepage)
 
     def tampilkan_riwayat(self, urutan) :
@@ -1295,6 +1340,28 @@ class nesaride :
         self.pilihpembayaran4.config(text = f'Rp {self.saldo}')
         topup.destroy()
 
+        file_username = open("akun.txt", "r")
+        line = file_username.readlines()
+        n = 0
+        for kata in line :
+            lines = kata.strip().split(',')
+            nim = lines[1]
+            if self.nim == nim :
+                idx = n
+                with open("akun.txt", 'r') as f:
+                    file = f.readlines()
+
+                line = file[idx].split(',')
+                line[4] = f'{self.saldo}\n'
+                file[idx] = ','.join(line)
+
+                with open("akun.txt", 'w') as f:
+                    for line in file:
+                        f.write(line)
+            else :
+                n+=1
+        file_username.close()
+
     def move(self) :
         if self.x == 3 :
             self.x = 1
@@ -1318,7 +1385,7 @@ class nesaride :
                     file = f.readlines()
 
                 line = file[idx].split(',')
-                line[3] = f'0\n'
+                line[3] = f'0'
                 file[idx] = ','.join(line)
 
                 with open("akun.txt", 'w') as f:
