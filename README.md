@@ -27,8 +27,8 @@ Berikut beberapa hal yang berhasil saya buat dan pelajari dalam proyek ini:
 ## 🖼️ Screenshot
 Kumpulan-kumpulan Screenshoot tampilan aplikasinya.
 
-<img src="image/ss5.png" alt="Login page" width="350"/>
-<img src="image/ss4.png" alt="Pesan page" width="350"/>
-<img src="image/ss2.png" alt="Home page" width="350"/>
-<img src="image/ss3.png" alt="Map page" width="350"/>
-<img src="image/ss1png" alt="history page" width="350"/>
+<img src="images/ss5.png" alt="Login page" width="350"/>
+<img src="images/ss4.png" alt="Pesan page" width="350"/>
+<img src="images/ss2.png" alt="Home page" width="350"/>
+<img src="images/ss3.png" alt="Map page" width="350"/>
+<img src="images/ss1png" alt="history page" width="350"/>
