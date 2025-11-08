@@ -3,4 +3,6 @@ Sebuah project untuk mengukur seberapa jauh pemahaman terhadap pemograman dasar 
 
 🎬 Tonton video demo-nya:
 
-[![Watch the video](https://img.youtube.com/vi/QzbQaNUwTjQ/0.jpg)](https://youtu.be/QzbQaNUwTjQ?si=8Kte-iRorK1XqlXE)
+<a href="https://www.youtube.com/watch?v=QzbQaNUwTjQ">
+  <img src="https://img.youtube.com/vi/QzbQaNUwTjQ/0.jpg" width="500">
+</a>
