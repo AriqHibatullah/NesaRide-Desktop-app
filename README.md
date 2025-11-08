@@ -32,3 +32,10 @@ Kumpulan-kumpulan Screenshoot tampilan aplikasinya:
 <img src="images/ss2.png" alt="Home page" width="350"/>
 <img src="images/ss3.png" alt="Map page" width="350"/>
 <img src="images/ss1.png" alt="history page" width="350"/>
+
+## 👤 Authors
+- Muhammad Ariq Hibatullah
+- Dea Kurnia Wati
+- Yasyifa Sastiya Nabali
+- Kais Dhovi Alfatah
+- Friza Chintia Putri
