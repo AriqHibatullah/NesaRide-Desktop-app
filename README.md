@@ -24,8 +24,8 @@ Berikut beberapa hal yang berhasil saya buat dan pelajari dalam proyek ini:
 
 > 💡 Melalui proyek ini, saya belajar bagaimana cara menghubungkan logika dasar Python dengan tampilan GUI yang interaktif, serta bagaimana menyimpan dan menampilkan data secara dinamis.
 
-## 🖼️ Screenshot
-Kumpulan-kumpulan Screenshoot tampilan aplikasinya.
+## 🖼️ Screenshots
+Kumpulan-kumpulan Screenshoot tampilan aplikasinya:
 
 <img src="images/ss5.png" alt="Login page" width="350"/>
 <img src="images/ss4.png" alt="Pesan page" width="350"/>
