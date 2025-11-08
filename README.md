@@ -31,4 +31,4 @@ Kumpulan-kumpulan Screenshoot tampilan aplikasinya.
 <img src="images/ss4.png" alt="Pesan page" width="350"/>
 <img src="images/ss2.png" alt="Home page" width="350"/>
 <img src="images/ss3.png" alt="Map page" width="350"/>
-<img src="images/ss1png" alt="history page" width="350"/>
+<img src="images/ss1.png" alt="history page" width="350"/>
